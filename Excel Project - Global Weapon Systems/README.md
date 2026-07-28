@@ -39,11 +39,11 @@ To extrapolate information in the original data, I asked these questions:
 
 # Which Country Spends The Most On Weapon Systems?
 Skill: Pivot Tables, Formulas, World Map, Slicers
-![Spending Example](Screenshot_150501)
+![Spending Example](https://i.imgur.com/1riiZVF.png)
 
 # Which Country Is Paying The Most Per Manufacturer?
 Skill: Pivot Tables, Slicers
-![Sum and Average Cost](Screenshot_151405)
+![Sum and Average Cost](https://i.imgur.com/fsg766t.png)
 
 # What Are The Most Expensive Weapon Systems Per Weight (kg)?
 Skill: Power Query, Formulas
