@@ -4,7 +4,7 @@
 
 As a job seeker, I wanted to showcase skills relevant for Excel applications. I investigated the global weapons systems database from Kaggle. I search for relevant data about the spending trends of different weapon manufactufuerers and countries. This will present that data in an easily to discern format here in this Excel file.
 
-### The final project is in [Excel Project - Global Weapon Systems]()
+### The final project is in [Excel Project - Global Weapon Systems](https://github.com/Brandon-Bolar/Bolar-Projects/blob/main/Excel%20Project%20-%20Global%20Weapon%20Systems/Excel%20Project%20-%20Global%20Weapon%20Systems.xlsx)
 
 ## Excel Skills Used
 I realize that Excel is a powerful tool and visually showcase data to better understand the golbal weaponms market. Here's what I used to resent the originbal data set.
