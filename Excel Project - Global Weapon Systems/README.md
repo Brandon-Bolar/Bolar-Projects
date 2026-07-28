@@ -18,20 +18,20 @@ I realize that Excel is a powerful tool and can visually showcase data to better
 
 ## Dashboard 
 
- ![Dashboard_Top](Screenshot_152650)
- ![Dashboard_Central](Screenshot_150947)
+ ![Dashboard_Top](https://i.imgur.com/XVL622T.png)
+ ![Dashboard_Central](https://i.imgur.com/ENXiWeL.png)
 
 - Pivot Tables
     - Pivot tables allow the quick classification and exhibition of data. Here, I broke the data down by country, manufacturer, or spending habits. 
-    ![Pivot Table Example](Screenshot_153225)
+    ![Pivot Table Example](https://i.imgur.com/kBAn4lv.png)
 - Charts
     - Trends can be quickly identified from the data. Certain countries spend more for weapon systems than other countries.     
-    ![Pivot Chart Example](Screenshot_152910)
+    ![Pivot Chart Example](https://i.imgur.com/h3HnP6c.png)
 - Data Validation
     - Data Validation was utilized for cleaning incorrect or inconsistent entries while enhancing the usability of the data for the dashboard.
 
 ## Questions Analyzed?
-In order to extrapolate information in the original data, I asked these questions:
+To extrapolate information in the original data, I asked these questions:
 
 1. Which Country Spends The Most On Weapon Systems?
 2. Which Country Is Paying The Most Per Manufacturer?
@@ -49,19 +49,19 @@ Skill: Pivot Tables, Slicers
 Skill: Power Query, Formulas
 - Power Query   
     - Load, Transform, Extract Original Data
-![ETL](Screenshot_151208)
+![ETL](https://i.imgur.com/SWbk6tN.png)
 
-    1. Extract
-        - First, I extracted the data using Power Query.
-    2. Transform
-        - Then, I transformed many numbers from text to Int64
-        - Next, I applied a formula for the cost of a unit system per weight (kg)
-    3. Load
-        -Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
+1. Extract
+   - First, I extracted the data using Power Query.
+2. Transform
+   - Then, I transformed many numbers from text to Int64
+   - Next, I applied a formula for the cost of a unit system per weight (kg)
+3. Load
+    -Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
 
 ## Additional Analysis
 Skill: XLOOKUP, VLOOKUP
-![Spending Brackets](Screenshot_150518)
+![Spending Brackets](https://i.imgur.com/RP0GKFN.png)
 
 ## Insights
 - Algeria, Slovakia, and Zimbabwe dominate globally in terms of the highest government spending per average individual unit weapon systems. 
@@ -70,7 +70,7 @@ Skill: XLOOKUP, VLOOKUP
 - Anti-air and anti-tank missile systems cost the most per weight (kg) to produce by all global manufacturers. Anti-air and anti-tank systems require costly avionics and detection systems to be considered viable.
 
 # Conclusion
-I sought to better understand the relationship between weapon systems and their manufacturers by utilizing the Excels given tools. To start, I used a Global Weapons System data set from the database site: Kaggle.com. I leveraged skills such as Power Query, LOOKUPs, formulas, pivot tables, and charts. I discovered some insightful trends in the data that I sought to make understandable in detail and through visualization.  
+I sought to better understand the relationship between weapon systems and their manufacturers by using the provided Excel tools. To start, I used a Global Weapons System data set from the database site: Kaggle.com. I leveraged skills such as Power Query, LOOKUPs, formulas, pivot tables, and charts. I discovered some insightful trends in the data that I sought to make understandable in detail and through visualization.  
 
 Hopefully, this project serves as a guide for both companies and professionals into the world of competitive global defense expenditures.
 
