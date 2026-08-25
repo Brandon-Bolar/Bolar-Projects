@@ -1,4 +1,4 @@
---Question: For each cohort year, what is total revenue and revenue per patient?
+--Question: For each cohort year, what is the total revenue and revenue per patient?
 WITH admission_payment AS (
     SELECT
         cohort_year,
@@ -12,7 +12,7 @@ WITH admission_payment AS (
         cohort_year,
         length_of_stay_days
 )
---Question:For each length of stay, how much revenue was generated and what percentage of all revenue does that represent?
+--Question: For each length of stay, how much revenue was generated and what percentage of all revenue does that represent?
 SELECT
     length_of_stay_days,
     SUM(total_revenue) AS total_revenue,
