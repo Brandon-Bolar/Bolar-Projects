@@ -18,10 +18,8 @@ segment_values AS (
         paa.patient_id,
         paa.ave_admission,
         CASE
-            WHEN paa.ave_admission < ps.percentile_25th
-                THEN '1 - Low-Value'
-            WHEN paa.ave_admission <= ps.percentile_75th
-                THEN '2 - Mid-Value'
+            WHEN paa.ave_admission < ps.percentile_25th THEN '1 - Low-Value'
+            WHEN paa.ave_admission <= ps.percentile_75th THEN '2 - Mid-Value'
             ELSE '3 - High-Value'
         END AS patient_segment
     FROM patient_average_admission paa
