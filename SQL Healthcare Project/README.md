@@ -1,11 +1,11 @@
 # SQL - Healthcare Database Analysis
 
 ## Overview
-Analysis of patient segmentation and admission metrics to continue data driven decision making by hospital management to optimize care and medical services.
+Analysis of patient segmentation and admission metrics to support data-driven decision-making by hospital management to optimize care and medical services.
 
 ## Business Questions
-1. **Patient Segmentation:** What percentages are hospital admissions by charges due?
-2. **Cohort Analysis:** For each length of stay, how much revenue was generated and what percentage of all revenue does that represent?
+1. **Patient Segmentation:** What percentages of hospital admissions are by charges due?
+2. **Cohort Analysis:** For each length of stay, how much revenue was generated, and what percentage of all revenue does that represent?
 
 
 ## Clean Up Data
@@ -32,7 +32,7 @@ Analysis of patient segmentation and admission metrics to continue data driven d
 
 💡 **Insights & Analysis**
 -   Monitor that management doesn't engage in disproportionate attention toward high-expenditure patient admissions.
--   Adapting to the low expenditure demographic by building trust with medical professionals in preventative care because the tier is defined by volume. 
+-   Adapt to the low-expenditure demographic by building trust with medical professionals in preventive care because the tier is defined by volume. 
 
 
 ### 2. Patient Revenue by Cohort
@@ -43,10 +43,10 @@ Analysis of patient segmentation and admission metrics to continue data driven d
 - Analyzed daily revenue percentages at a cohort level 
 
 📊 **Key Findings:**  
-- Hospital patient revenue fits a declining curve. Including all patients, first day revenue is at $25,042,147 and drops sharply to $480,807 for those still requiring care on day 30. A 98.08% drop in incoming hospital revenue.    
+- Hospital patient revenue fits a declining curve. Including all patients, first-day revenue is $25,042,147 and drops sharply to $480,807 for those still requiring care on day 30. A 98.08% drop in incoming hospital revenue.    
 
 💡 **Analysis & Insights:**    
-- The first days of hospital admissions are the key to financial stability so operational efficiency should be concentrated there. 
+- The first days of hospital admissions are the key to financial stability, so operational efficiency should be concentrated there. 
 
 
 ## Technical Details
@@ -57,6 +57,6 @@ Analysis of patient segmentation and admission metrics to continue data driven d
 
 ## Special Thanks 
 - [Healthcare Dataset: Patients, Costs, Outcomes](https://www.kaggle.com/datasets/sauryayan/synthetic-healthcare-records-and-financial-outcomes)
-- Inspired by: Luke Barousse - Youtube SQL Series
+- Inspired by: Luke Barousse - YouTube SQL Series
 - GeeksforGeeks
 
