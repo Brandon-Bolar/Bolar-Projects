@@ -52,7 +52,6 @@ Analysis of patient segmentation and admission metrics to support data-driven de
 ## Technical Details
 - **Database:** PostgreSQL
 - **Analysis Tools:** PostgreSQL, DBeaver
-- **Editing** ChatGPT
 
 
 ## Special Thanks 
