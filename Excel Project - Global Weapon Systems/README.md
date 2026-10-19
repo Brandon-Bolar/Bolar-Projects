@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As a job seeker, I wanted to showcase skills relevant to Excel applications. I investigated the global weapons systems database from Kaggle. I searched for relevant data about the spending trends of different weapon manufacturers and countries. This will present that data in an easily to discern format here in this Excel file.
+As a job seeker, I wanted to showcase skills relevant to Excel applications. I investigated the global weapons systems database from Kaggle. I searched for relevant data about the spending trends of different weapon manufacturers and countries. This will present that data in an easy-to-discern format in this Excel file.
 
 ### The final project is in [Excel Project - Global Weapon Systems](https://github.com/Brandon-Bolar/Bolar-Projects/blob/main/Excel%20Project%20-%20Global%20Weapon%20Systems/Excel%20Project%20-%20Global%20Weapon%20Systems.xlsx)
 
@@ -25,7 +25,7 @@ I realize that Excel is a powerful tool and can visually showcase data to better
     - Pivot tables allow the quick classification and exhibition of data. Here, I broke the data down by country, manufacturer, or spending habits. 
     ![Pivot Table Example](https://i.imgur.com/kBAn4lv.png)
 - Charts
-    - Trends can be quickly identified from the data. Certain countries spend more for weapon systems than other countries.     
+    - Trends can be quickly identified from the data. Certain countries spend more on weapon systems than other countries.     
     ![Pivot Chart Example](https://i.imgur.com/h3HnP6c.png)
 - Data Validation
     - Data Validation was utilized for cleaning incorrect or inconsistent entries while enhancing the usability of the data for the dashboard.
@@ -70,7 +70,7 @@ Skill: XLOOKUP, VLOOKUP
 - Anti-air and anti-tank missile systems cost the most per weight (kg) to produce by all global manufacturers. Anti-air and anti-tank systems require costly avionics and detection systems to be considered viable.
 
 # Conclusion
-I sought to better understand the relationship between weapon systems and their manufacturers by using the provided Excel tools. To start, I used a Global Weapons System data set from the database site: Kaggle.com. I leveraged skills such as Power Query, LOOKUPs, formulas, pivot tables, and charts. I discovered some insightful trends in the data that I sought to make understandable in detail and through visualization.  
+I sought to better understand the relationship between weapon systems and their manufacturers by using the provided Excel tools. To start, I used a Global Weapons System dataset from the database site: Kaggle.com. I leveraged skills such as Power Query, LOOKUPs, formulas, pivot tables, and charts. I discovered some insightful trends in the data that I sought to make understandable in detail and through visualization.  
 
 Hopefully, this project serves as a guide for both companies and professionals into the world of competitive global defense expenditures.
 
