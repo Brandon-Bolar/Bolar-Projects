@@ -1,13 +1,13 @@
-# Global Weapon Systems Excel Project
+# EV Market Analytics - Power BI Project
 
 ## Introduction
 
-As a job seeker, I wanted to showcase skills relevant to Power BI applications. I investigated the EV Market Analytics Dataset from Kaggle. I searched for relevant data about the spending trends of different electric vehicle manufacturers and countries. This will present that data in an easy-to-discern format in this Power BI file.
+As a job seeker, I wanted to showcase skills relevant to Power BI applications. I investigated the EV Market Analytics Dataset from Kaggle. I searched for relevant data about the spending trends of different electric vehicle manufacturers and countries. This Power BI file presents that data in an easy-to-discern format.
 
 ### The final project is in [EV Analytics Dashboard](https://github.com/Brandon-Bolar/Bolar-Projects/blob/main/Power%20BI%20Project%20-%20EV%20Analytics/EV%20Analytics%20Dashboard.pbix)
 
 ## Excel Skills Used
-I realize that Power BI is a powerful tool and can visually showcase data to better understand the global EV sales market. Here's what I used to present the original data set:
+I realized Power BI is a powerful tool that can visually showcase data to help us better understand the global EV sales market. Here's what I used to present the original data set:
 
 - Power Query
 - DAX
