@@ -32,7 +32,7 @@ To extrapolate information from the original data, I asked these questions:
 3. What EVs Are The Most Effectively Sold Units Through Market Ranking?
 
 # Which Country Receives The Most Revenue?
-Skill: Tables, Power Query Formulas, Charts 
+Skill: Tables, Power Query & Formulas, Charts 
 
 
 # Which Country Is Selling The Most Per Country Of Origin?
@@ -42,13 +42,16 @@ Skill: Charts, Cards
 # What Are The Most Effectively Sold Units Through Market Ranking?
 Skill: DAX, IF Statements, Charts
 - DAX   
-    - I used an IF statement to categorize all electric vehicles into best sellers and average sellers. 
+    - I used an IF statement to categorize all electric vehicles into best sellers and average sellers.
+       - sales_rank = IF(ev_market_2026[annual_sales_units] > 400000, "Best Seller", "Average Seller")
 - Charts
     - A scatterplot was used to separate best sellers from average seller categories.
+
+      
 ## Insights
 - Tesla is far ahead in market share due to the Model Y sales performance. In 2026, it appears that Teslas are getting cheaper and more attractive to consumers, while their competitors are adding more expensive features to their electric vehicles in order to compete.
 - The USA leads in global market share because of Tesla. China and Europe are catching up, and there are newcomers in Asia that are encroaching into the EV market.
-- More consumers are buying ZEVs than there were six years ago, and therefore the market will continue to grow.  
+- More consumers are buying EVs than there were six years ago, and therefore the market will continue to grow.  
 
 # Conclusion
 I sought to better understand the relationship between EV market performance and EV brand and country data. 
